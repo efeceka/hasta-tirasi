@@ -27,7 +27,7 @@ export const metadata = {
     siteName: "Hasta Tıraşı",
     images: [
       {
-        url: "https://hastatrasi.com/images/mainlogo.png", 
+        url: "https://hastatrasi.com/images/og-image.jpg", 
         width: 1200,
         height: 630,
         alt: "Hasta Tıraşı Hizmeti",
@@ -40,7 +40,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Hasta Tıraşı – Evde ve Hastanede Profesyonel Hizmet",
     description: "Hijyen kurallarına uygun, evde ve hastanede saç & sakal tıraşı.",
-    images: ["https://hastatrasi.com/images/mainlogo.png"]
+    images: ["https://hastatrasi.com/images/og-image.jpg"]
   },
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
