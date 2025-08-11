@@ -35,6 +35,14 @@ export default function HastaTrasiHero() {
           >
             📞 Hemen Arayın: 0505 062 0630
           </a>
+           <a
+            href="tel:+905551728670"
+            className="rounded-2xl bg-white/60 backdrop-blur-sm shadow-lg
+                      px-5 py-5 w-[320px] text-center font-medium
+                      hover:bg-white/40 transition flex items-center justify-center gap-2"
+          >
+            📞 Hemen Arayın: 0555 273 8670
+          </a>
           <a
             href="https://wa.me/905050620630"
             target="_blank"
