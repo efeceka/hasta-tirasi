@@ -41,7 +41,7 @@ export default function HastaTrasiHero() {
                       px-5 py-5 w-[320px] text-center font-medium
                       hover:bg-white/40 transition flex items-center justify-center gap-2"
           >
-            📞 Hemen Arayın: 0555 273 8670
+            📞 Hemen Arayın: 0555 172 8670
           </a>
           <a
             href="https://wa.me/905050620630"
