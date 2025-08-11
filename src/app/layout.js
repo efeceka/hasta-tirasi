@@ -28,7 +28,7 @@ export const metadata = {
     siteName: "Hasta Tıraşı",
     images: [
       {
-        url: "/images/mainlogo.png", 
+        url: "https://hastatrasi.com/images/mainlogo.png", 
         width: 1200,
         height: 630,
         alt: "Hasta Tıraşı Hizmeti",
