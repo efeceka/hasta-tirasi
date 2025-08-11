@@ -26,7 +26,7 @@ export default function HastaTrasiHero() {
           </h1>
         </div>
         {/* Sağ: Butonlar */}
-        <div className="flex flex-col gap-3 md:items-start items-center translate-y-40 md:translate-y-0 ">
+        <div className="flex flex-col gap-3 md:items-start items-center translate-y-30 md:translate-y-0 ">
           <a
             href="tel:+905050620630"
             className="rounded-2xl bg-white/60 backdrop-blur-sm shadow-lg
