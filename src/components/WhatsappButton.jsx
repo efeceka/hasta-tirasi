@@ -1,8 +1,7 @@
-// components/WhatsappButton.jsx
 export default function WhatsappButton() {
   return (
     <a
-      href="https://wa.me/490000000000" // numarayı ülke koduyla buraya yaz
+      href="https://wa.me/905050620630"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed z-[9999] right-5 bottom-5 md:right-8 md:bottom-8 w-14 h-14 rounded-full bg-[#25D366] shadow-xl flex items-center justify-center hover:scale-110 transition-transform"

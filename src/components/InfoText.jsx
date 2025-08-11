@@ -1,4 +1,3 @@
-// components/InfoSection.jsx
 export default function InfoSection() {
   return (
     <section id="hizmetler" className="relative py-16 bg-white/40 backdrop-blur-sm">
@@ -7,9 +6,9 @@ export default function InfoSection() {
         {/* Sol: Görsel */}
         <div className="flex justify-center md:justify-start mx-10">
           <img
-            src="/images/infoimage.jpg" // kendi görsel yolunu kullan
+            src="/images/mainlogo.png"
             alt="Hijyenik berber hizmeti"
-            className="w-56 h-56 md:w-72 md:h-72 rounded-full object-cover ring-4 ring-white shadow-xl"
+            className="w-49 h-60 md:w-65 md:h-79 rounded-full object-cover"
           />
         </div>
 
