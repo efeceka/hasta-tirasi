@@ -17,7 +17,6 @@ export const metadata = {
     "istanbul hasta tıraşı",
     "istanbul hasta berber",
     "istanbul eve berber",
-    // isteğe bağlı: yanlış yazımlar
     "hasta traşı",
     "hasta tras"
   ],
@@ -41,11 +40,11 @@ export const metadata = {
     card: "summary_large_image",
     title: "Hasta Tıraşı – Evde ve Hastanede Profesyonel Hizmet",
     description: "Hijyen kurallarına uygun, evde ve hastanede saç & sakal tıraşı.",
-    images: ["/images/mainlogo.png"], //
+    images: ["https://hastatrasi.com/images/mainlogo.png"]
   },
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
-  icons: { icon: "/favicon.ico" }, // app/icon.png kullanıyorsan bunu kaldır
+  icons: { icon: "/favicon.ico" },
 };
 
 export const barlowCond = Barlow_Condensed({
